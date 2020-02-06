@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 5: Primeiro projeto com ReactJS
+  Desafio 5: Projeto com ReactJS
 </h3>
 
 <p align="center">
